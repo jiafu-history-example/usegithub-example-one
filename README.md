@@ -1,2 +1,0 @@
-# usegithub-example-one
-example
